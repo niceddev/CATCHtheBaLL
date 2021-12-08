@@ -1,0 +1,9 @@
+lastUpgrade=00964
+proj.pluginVersion=0.9.64
+proj.AppId=790520775750
+and.BundleId=com.nicedev.catchtheball
+proj.classDir=Assets
+proj.ConstantsClassName=CTBGPS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0d%0a%3c%21--%0d%0aGoogle+Play+game+services+IDs.%0d%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0d%0a--%3e%0d%0a%3cresources%3e%0d%0a++%3c%21--+app_id+--%3e%0d%0a++%3cstring+name%3d%22app_id%22+translatable%3d%22false%22%3e790520775750%3c%2fstring%3e%0d%0a++%3c%21--+package_name+--%3e%0d%0a++%3cstring+name%3d%22package_name%22+translatable%3d%22false%22%3ecom.nicedev.catchtheball%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Goodbye+Earth+--%3e%0d%0a++%3cstring+name%3d%22achievement_goodbye_earth%22+translatable%3d%22false%22%3eCgkIxojX9YAXEAIQAw%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Apollo+11+--%3e%0d%0a++%3cstring+name%3d%22achievement_apollo_11%22+translatable%3d%22false%22%3eCgkIxojX9YAXEAIQAg%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Mars+One+--%3e%0d%0a++%3cstring+name%3d%22achievement_mars_one%22+translatable%3d%22false%22%3eCgkIxojX9YAXEAIQBA%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Asteroid+Belt+--%3e%0d%0a++%3cstring+name%3d%22achievement_asteroid_belt%22+translatable%3d%22false%22%3eCgkIxojX9YAXEAIQBQ%3c%2fstring%3e%0d%0a++%3c%21--+achievement+Very+windy+--%3e%0d%0a++%3cstring+name%3d%22achievement_very_windy%22+translatable%3d%22false%22%3eCgkIxojX9YAXEAIQBg%3c%2fstring%3e%0d%0a++%3c%21--+leaderboard+High+score+--%3e%0d%0a++%3cstring+name%3d%22leaderboard_high_score%22+translatable%3d%22false%22%3eCgkIxojX9YAXEAIQAQ%3c%2fstring%3e%0d%0a%3c%2fresources%3e%0d%0a
+and.ClientId=790520775750-pub3nqr5s9p5s0m6j22hkjc0vv8dic5e.apps.googleusercontent.com
+android.SetupDone=true
